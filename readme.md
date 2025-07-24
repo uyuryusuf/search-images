@@ -18,7 +18,8 @@ Bu proje, [Unsplash](https://unsplash.com/developers) API'si kullanılarak belir
 
 ## 📸 Ekran Görüntüsü
 
-(img/ornek-1.png)
+![Ornek Resim-1](img/ornek-1.png)
+
 
 ## 🔧 Kurulum
 
