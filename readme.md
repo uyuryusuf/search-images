@@ -18,7 +18,7 @@ Bu proje, [Unsplash](https://unsplash.com/developers) API'si kullanılarak belir
 
 ## 📸 Ekran Görüntüsü
 
-> Uygulama çalıştığında arama kutusu, görsel kartları ve "Temizle" butonu görünür.
+(img/ornek-1.png)
 
 ## 🔧 Kurulum
 
@@ -26,3 +26,4 @@ Bu proje, [Unsplash](https://unsplash.com/developers) API'si kullanılarak belir
 
 ```bash
 git clone https://github.com/uyuryusuf/search-images.git
+```
